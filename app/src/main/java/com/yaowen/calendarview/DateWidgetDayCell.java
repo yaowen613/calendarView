@@ -16,9 +16,9 @@ import java.util.Calendar;
 
 /**
  * 日期内容部分
- * @author WangShanShan
+ * @author YAOWEN
  * @explain 
- * @date 2012-12-14
+ * @date 2015-10-23
  */
 public class DateWidgetDayCell extends View {
 	// types

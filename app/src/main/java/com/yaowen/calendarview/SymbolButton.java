@@ -9,9 +9,9 @@ import android.widget.Button;
 
 /**
  * 箭头按钮
- * @author WangShanShan
+ * @author YAOWEN
  * @explain 
- * @date 2012-12-14
+ * @date 2015-10-23
  */
 public class SymbolButton extends Button {
 	// fields
